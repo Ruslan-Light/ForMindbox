@@ -1,0 +1,12 @@
+D:\Documents\С#\TestForJob\TestMindbox1\AreaCalculation\bin\Debug\net6.0\AreaCalculation.deps.json
+D:\Documents\С#\TestForJob\TestMindbox1\AreaCalculation\bin\Debug\net6.0\AreaCalculation.dll
+D:\Documents\С#\TestForJob\TestMindbox1\AreaCalculation\bin\Debug\net6.0\AreaCalculation.pdb
+D:\Documents\С#\TestForJob\TestMindbox1\AreaCalculation\obj\Debug\net6.0\AreaCalculation.csproj.AssemblyReference.cache
+D:\Documents\С#\TestForJob\TestMindbox1\AreaCalculation\obj\Debug\net6.0\AreaCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\С#\TestForJob\TestMindbox1\AreaCalculation\obj\Debug\net6.0\AreaCalculation.AssemblyInfoInputs.cache
+D:\Documents\С#\TestForJob\TestMindbox1\AreaCalculation\obj\Debug\net6.0\AreaCalculation.AssemblyInfo.cs
+D:\Documents\С#\TestForJob\TestMindbox1\AreaCalculation\obj\Debug\net6.0\AreaCalculation.csproj.CoreCompileInputs.cache
+D:\Documents\С#\TestForJob\TestMindbox1\AreaCalculation\obj\Debug\net6.0\AreaCalculation.dll
+D:\Documents\С#\TestForJob\TestMindbox1\AreaCalculation\obj\Debug\net6.0\refint\AreaCalculation.dll
+D:\Documents\С#\TestForJob\TestMindbox1\AreaCalculation\obj\Debug\net6.0\AreaCalculation.pdb
+D:\Documents\С#\TestForJob\TestMindbox1\AreaCalculation\obj\Debug\net6.0\ref\AreaCalculation.dll
